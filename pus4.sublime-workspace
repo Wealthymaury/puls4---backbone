@@ -1,0 +1,527 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"css",
+				"css( name, value )	jquery-2.0.3.js"
+			],
+			[
+				"app",
+				"append()	jquery-2.0.3.js"
+			],
+			[
+				"crear",
+				"crearContador(valorInicial)	index.html"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"sli",
+				"slideDown	.slideDown()"
+			],
+			[
+				"te",
+				"text	.text"
+			],
+			[
+				"fade",
+				"fadeIn	.fadeIn()"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"html",
+				"html	.html"
+			],
+			[
+				"no",
+				"nombre"
+			],
+			[
+				"ha",
+				"hacerAlgo"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pos",
+				"posts"
+			],
+			[
+				"v",
+				"vertical-align"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"e",
+				"e602"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"gri",
+				"gris_texto"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"gr",
+				"gris_texto"
+			],
+			[
+				"g",
+				"gris_texto"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-right"
+			],
+			[
+				"st",
+				"strong	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/index.html",
+			"settings":
+			{
+				"buffer_size": 4264,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/init.js",
+			"settings":
+			{
+				"buffer_size": 202,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/backbone/routers/base.js",
+			"settings":
+			{
+				"buffer_size": 1148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/backbone/views/article-view.js",
+			"settings":
+			{
+				"buffer_size": 3931,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/js/backbone/views/app.js",
+			"settings":
+			{
+				"buffer_size": 1663,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/css/puls4.styl",
+		"/C/Users/Maury/Desktop/puls4 - backbone/server.js",
+		"/C/Users/Maury/AppData/Local/Temp/Rar$DRa0.792/puls4-america/public/css/puls4.styl",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/main.js",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/backbone/views/app.js",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/backbone/views/article-view.js",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/backbone/collections/articles.js",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/backbone/models/article.js",
+		"/C/Users/Maury/Desktop/puls4/index.html",
+		"/C/Users/Maury/Desktop/puls4 - backbone/base-data.json",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/backbone/views/article.js",
+		"/C/Users/Maury/Desktop/puls4 - backbone/public/js/init.js",
+		"/C/Users/Maury/Desktop/puls4 - backbone/package.json",
+		"/C/Users/Maury/Desktop/puls4-master/app/views/index.html",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/MEJOLA.FR0N-crs/MATERIALES/clase5/index.html",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/MEJOLA.FR0N-crs/MATERIALES/clase5/app/views/index.html",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/MEJOLA.FR0N-crs/VÍDEOS/CLASE 5 BACKBONE.JS/puls4-america/app/views/index.html",
+		"/C/Users/Maury/Desktop/puls4/css/puls4.styl",
+		"/C/Users/Maury/Desktop/ejercicios Javascript puro/index-javascript.html",
+		"/C/Users/Maury/Desktop/ejercicios Javascript puro/index.html",
+		"/C/Users/Maury/Desktop/ejercicios Javascript puro/index-jquery.html",
+		"/C/Users/Maury/Desktop/practica jQuery/index.html",
+		"/E/Proyectos jQuery/ejemplo3.html",
+		"/E/Proyectos jQuery/ejemplo4.html",
+		"/E/Proyectos jQuery/ejemplo2.html",
+		"/E/Proyectos jQuery/ejemplo1.html",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/Herramientas para FrontEnd/html5-boilerplate-4.3.0/index.html",
+		"/C/Users/Maury/Desktop/practica bootstrap/index.html",
+		"/C/Users/Maury/Desktop/practica bootstrap/puls4.styl",
+		"/C/Users/Maury/Desktop/practica bootstrap/grid.html",
+		"/C/Users/Maury/Desktop/practica bootstrap/grid.styl",
+		"/C/Users/Maury/Desktop/icomoon/style.css",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/MEJOLA.FR0N-crs/MATERIALES/2g-clase2/america/index.html",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/MEJOLA.FR0N-crs/MATERIALES/2g-clase2/america/css/puls4.styl",
+		"/C/Users/Maury/Downloads/Curso FrontEnd/MEJOLA.FR0N-crs/MATERIALES/clase2/estilos.styl",
+		"/C/Users/Maury/Desktop/css/puls4.styl",
+		"/C/Users/Maury/Desktop/index.html",
+		"/C/Users/Maury/Desktop/css/puls4.css",
+		"/C/Users/Maury/Desktop/estilos.styl"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$",
+			";)",
+			"sm",
+			"lg",
+			"collg",
+			"sm",
+			"xs",
+			" \">",
+			"5px"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/index.html",
+					"settings":
+					{
+						"buffer_size": 4264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3784,
+								3777
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1005.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "public/js/init.js",
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/js/main.js",
+					"settings":
+					{
+						"buffer_size": 1915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1726,
+								1726
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/js/backbone/routers/base.js",
+					"settings":
+					{
+						"buffer_size": 1148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1141,
+								1141
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/js/backbone/views/article-view.js",
+					"settings":
+					{
+						"buffer_size": 3931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1380,
+								1380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/js/backbone/views/app.js",
+					"settings":
+					{
+						"buffer_size": 1663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1659,
+								1659
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
